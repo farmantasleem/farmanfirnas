@@ -1,7 +1,10 @@
 [![MasterHead](https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966)]()
 
   
-### <div align="center">I'm Farman,Full Stack Developer🚀</div>  
+### <div align="center">
+  <p>I'm Farman,Full Stack Developer🚀<p/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20Myself%20Farman%20Malik;A%20Full-Stack%20Web%20Developer%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Curious%20to%20learn%20new%20things%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"/>
+</div>  
 
   
 # 💫 About Me:
