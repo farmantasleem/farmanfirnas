@@ -3,9 +3,9 @@
   
 ### <div align="center" justifyContent="center">
   <p>I'm Farman,Full Stack Developer🚀<p/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20Myself%20Farman%20Malik;A%20Full-Stack%20Web%20Developer%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Curious%20to%20learn%20new%20things%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"/>
-</div>  
 
+</div>  
+  <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Hi!%20Myself%20Farman%20Malik;A%20Full-Stack%20Web%20Developer%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Curious%20to%20learn%20new%20things%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"/>
   
 # 💫 About Me:
 🌱 I’m currently learning at Masai <br>💬 Ask me about Web-Development<br>⚡ Fun fact I Use tab over Spaces
